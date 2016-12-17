@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="त्या त्रिशूल सॅमती" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="सद्गुरू नाथ" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="शंकर बाबा" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="बाबा तेरे चरण" />
+        <item
+            android:id="@+id/nav_gall"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="एकमुखी देव" />
+        <item
+            android:id="@+id/nav_slide"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="अक्कलकोट गुरू महाराज" />
+        <item
+            android:id="@+id/nav_man"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="जा, जा, जा .....गुरू" />
+        <!--<item-->
+            <!--android:id="@+id/math_dhankavadi"-->
+            <!--android:icon="@drawable/ic_menu_slideshow"-->
+            <!--android:title="Shankar Maharaj Math" />-->
+    </group>
+
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="Send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>
